@@ -37,6 +37,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
+### `yarn start`
+
 
 <h2>How does my project look</h2>
 
