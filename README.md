@@ -11,7 +11,7 @@
 <br>
 
 
-[Clik Me!](https://selman-s.github.io/First-React-Project-Tour/)
+[Clik Me!](https://tour-places-reactp.netlify.app/)
 
 <br>
 
