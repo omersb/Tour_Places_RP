@@ -1,82 +1,46 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
+<h1>Hi I’m Ömer Said 👋. Welcome to my  Tour Project With React </h1>
 
-# Project-001 : Tour Places (RP-01)
+<br>
 
-## Description
+<p>This project is my first project in React. It was very useful for me to learn how to use components and props in react.</p>
 
-Project aims to create a tour places app.
+<br>
 
-## Problem Statement
+<h2>Live Link of the Project</h2>
 
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
+<br>
 
-## Project Skeleton
 
-```
-001-Tour Project(folder)
-|
-|----readme.md         # Given to the students (Definition of the project)
-SOLUTION
-├── public
-│     └── index.html
-├── src
-│    ├── components
-│    │       ├── cards
-│    │       │     ├── Card.css
-│    │       │     └── Card.js
-│    │       ├── header
-│    │       │     ├── Header.css
-│    │       │     └── Header.js
-│    │       └── navbar
-│    │             ├── Navbar.css
-│    │             └── Navbar.js
-│    ├── helper
-│    │       └── data.js
-│    ├── App.js
-│    ├── App.css
-│    ├── index.js
-│    └── index.css
-├── package.json
-└── yarn.lock
-```
+[Clik Me!](https://selman-s.github.io/First-React-Project-Tour/)
 
-## Expected Outcome
+<br>
 
-![Project 001 Snapshot](tour-project.gif)
+<h2>Libraries and Technologies I use</h2>
+ 
+ * React 
+ * React DOM
+ * Components
+ * Props
 
-## Objective
 
-Build a Tour Project App using ReactJS.
 
-### At the end of the project, following topics are to be covered;
 
-- HTML
+ 
+ <br>
+ 
+<h2>How to install</h2>
 
-- CSS
 
-- JS
+<br>
 
-- ReactJS
+In the project directory, you can run:
 
-### At the end of the project, students will be able to;
+### `npm start`
 
-- improve coding skills within HTML & CSS & JS & ReactJS.
+### `yarn start`
 
-- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
-## Steps to Solution
+<h2>How does my project look</h2>
 
-- Step 1: Create React App using `npx create-react-app tour-places`
 
-- Step 2: Build tour places app using [`data.js`](./data.js).
-
-- Step 4: Push your application into your own public repo on Github
-
-- Step 5: Add project gif to your project and README.md file.
-
-## Notes
-
-- You can add additional functionalities to your app.
-
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
+![tour-min](https://github.com/omersb/Tour_Places_RP/blob/master/tour-project.gif?raw=true)
