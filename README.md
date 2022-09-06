@@ -41,4 +41,4 @@ In the project directory, you can run:
 <h2>How does my project look</h2>
 
 
-![tour-min](https://user-images.githubusercontent.com/97898216/178441143-30916873-4813-46dd-b138-54166e3d26fc.gif)
+![tour-min](https://github.com/omersb/Tour_Places_RP/blob/master/tour-project.gif?raw=true)
