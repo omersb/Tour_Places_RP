@@ -11,7 +11,7 @@
 <br>
 
 
-[Clik Me!](https://tour-places-reactp.netlify.app/)
+[Clik Me!](https://osb-tourplaces-reactp.netlify.app/)
 
 <br>
 
